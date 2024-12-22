@@ -1,0 +1,37 @@
+{
+  "short_name": "Grocer",
+  "name": "Grocer - Natural Language Grocery List",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2196f3",
+  "background_color": "#121212",
+  "orientation": "portrait",
+  "description": "A grocery list app with natural language input",
+  "categories": ["shopping", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Add Items",
+      "short_name": "Add",
+      "description": "Add items to your grocery list",
+      "url": "/"
+    }
+  ]
+}
